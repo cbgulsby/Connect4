@@ -14,6 +14,10 @@ char board[6][7];
 bool check3();
                                      //computer moves: "x";
                                      //human moves: "o";
+
+/*
+    COMPLETE OVERHAUL OF CONNECT 4 AI
+*/
                                      
 int main(){    
     for (int i = 0; i < 6; i++){
